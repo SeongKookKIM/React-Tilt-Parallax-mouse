@@ -73,7 +73,7 @@ function App() {
           </p>
         </MouseParallaxChild>
         <div className="btn">
-          <a href="#">
+          <a href="/">
             <span></span>
             <span></span>
             <span></span>
