@@ -61,10 +61,10 @@ function App() {
             </MouseParallaxChild>
           </div>
         </div>
-        <MouseParallaxChild className="title" factorX={0.03} factorY={0.04}>
+        <MouseParallaxChild className="title" factorX={0.03} factorY={0.02}>
           TNC-ART
         </MouseParallaxChild>
-        <MouseParallaxChild className="text" factorX={0.04} factorY={0.05}>
+        <MouseParallaxChild className="text" factorX={0.04} factorY={0.06}>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque,
             optio eveniet modi dolorem nisi dicta impedit amet nesciunt
