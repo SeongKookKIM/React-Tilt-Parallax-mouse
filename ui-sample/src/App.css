@@ -158,7 +158,7 @@ body {
   color: #fff;
   overflow: hidden;
 }
-.btn a:hover {
+.btn:hover a {
   color: #fff;
   background: #2197f3;
   box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
